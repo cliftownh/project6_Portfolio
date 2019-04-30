@@ -1,0 +1,19 @@
+{
+  "name": "project6_portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio of techdegree projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cliftownh/project6_Portfolio.git"
+  },
+  "author": "Clifton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cliftownh/project6_Portfolio/issues"
+  },
+  "homepage": "https://github.com/cliftownh/project6_Portfolio#readme"
+}
