@@ -7,7 +7,7 @@ block content
       //- Add a title or heading like My Portfolio, or Hey, Potential Employers, or Let's make the web great together! 
       h1 Clifton Hefley
 
-      //- Add a description for your portfolio, what this project is, it's purpose, what it's suppossed to accomplish, etc. 
+      //- Add a description for your portfolio, what this projects is, it's purpose, what it's suppossed to accomplish, etc. 
       p.lead.text-light
         | Portfolio Description
   article.grid-container.portfolio-index
@@ -18,26 +18,26 @@ block content
       
       //- Use a combination of interpolation and template literals as needed to dynamically generate the the routes in the href, as well as the img's src and the projects title.
       
-      //- Here's what the Pug for each project example should look like. 
+      //- Here's what the Pug for each projects example should look like. 
 
       .cell
-        a(href='/0')
+        a(href='projects/0')
           img.thumbnail(src=`${projects[0].image_urls[0]}`)
           h5 #{projects[0].project_name}
       .cell
-        a(href='/1')
+        a(href='projects/1')
           img.thumbnail(src=`${projects[1].image_urls[0]}`)
           h5 #{projects[1].project_name}
       .cell
-        a(href='/2')
+        a(href='projects/2')
           img.thumbnail(src=`${projects[2].image_urls[0]}`)
           h5 #{projects[2].project_name}
       .cell
-        a(href='/3')
+        a(href='projects/3')
           img.thumbnail(src=`${projects[3].image_urls[0]}`)
           h5 #{projects[3].project_name}
       .cell
-        a(href='/4')
+        a(href='projects/4')
           img.thumbnail(src=`${projects[4].image_urls[0]}`)
           h5 #{projects[4].project_name}
       
