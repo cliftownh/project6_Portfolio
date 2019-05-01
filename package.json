@@ -2,7 +2,7 @@
   "name": "project6_portfolio",
   "version": "1.0.0",
   "description": "Portfolio of techdegree projects",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,10 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/cliftownh/project6_Portfolio.git"
   },
-  "author": "Clifton",
+  "author": "Clifton Hefley",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/cliftownh/project6_Portfolio/issues"
   },
-  "homepage": "https://github.com/cliftownh/project6_Portfolio#readme"
+  "homepage": "https://github.com/cliftownh/project6_Portfolio#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pug": "^2.0.3"
+  }
 }

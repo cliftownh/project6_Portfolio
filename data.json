@@ -1,0 +1,50 @@
+{
+    "projects":
+    [
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "The user clicks a button to display a random quote.",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https://cliftownh.github.io/project1_quoteGenerator",
+            "github_link": "https://github.com/cliftownh/project1_quoteGenerator",
+            "image_urls": ["/static/img/proj1_1.png", "/static/img/proj1_2.png", "/static/img/proj1_3.png"]
+        },
+        {
+            "id": 1,
+            "project_name": "Student Directory",
+            "description": "Search for students in a directory, the results are filtered and paginated.",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https://cliftownh.github.io/project1_quoteGenerator",
+            "github_link": "https://github.com/cliftownh/project1_quoteGenerator",
+            "image_urls": ["/static/img/proj1_1.png", "/static/img/proj1_2.png", "/static/img/proj1_3.png"]
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "A form field for signing up to a conference.",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https://cliftownh.github.io/project3_form",
+            "github_link": "https://github.com/cliftownh/project3_form",
+            "image_urls": ["/static/img/proj1_1.png", "/static/img/proj1_2.png", "/static/img/proj1_3.png"]
+        },
+        {
+            "id": 3,
+            "project_name": "Phrase Hunter Game Show",
+            "description": "Select letters to guess the secret phrase.",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https://cliftownh.github.io/GameShow",
+            "github_link": "https://github.com/cliftownh/GameShow",
+            "image_urls": ["/static/img/proj1_1.png", "/static/img/proj1_2.png", "/static/img/proj1_3.png"]
+        },
+        {
+            "id": 4,
+            "project_name": "Employee Directory",
+            "description": "A searchable directory of twelve randomly generated employees, each has a modal that can be viewed when clicked.",
+            "technologies": ["JavaScript", "HTML", "CSS", "API"],
+            "live_link": "https://cliftownh.github.io/Project5_EmployeeDirectory",
+            "github_link": "https://github.com/cliftownh/Project5_EmployeeDirectory",
+            "image_urls": ["/static/img/proj1_1.png", "/static/img/proj1_2.png", "/static/img/proj1_3.png"]
+        }
+    ]
+}
