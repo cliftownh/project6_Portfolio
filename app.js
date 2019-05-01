@@ -9,12 +9,12 @@ app.use('/static', express.static('public'));
 app.set('view engine', 'pug');
 
 const mainRoutes = require('./routes');
-// const aboutRoutes = require('./routes/about');
-// const projRoutes = require('./routes/project');
+const aboutRoutes = require('./routes/about');
+const projRoutes = require('./routes/project');
 
 app.use(mainRoutes);
-// app.use('/about', aboutRoutes);
-// app.use('/project', projRoutes);
+app.use('/about', aboutRoutes);
+app.use('/project', projRoutes);
 
 app.use((req, res, next) => {
     const err = new Error('Not Found');
