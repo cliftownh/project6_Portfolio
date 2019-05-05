@@ -8,16 +8,16 @@
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://cliftownh.github.io/project1_quoteGenerator",
             "github_link": "https://github.com/cliftownh/project1_quoteGenerator",
-            "image_urls": ["/static/img/proj1_1.png", "/static/img/proj1_2.png", "/static/img/proj1_3.png"]
+            "image_urls": ["/static/img/p1_img1.png", "/static/img/p1_img2.png", "/static/img/p1_img3.png"]
         },
         {
             "id": 1,
             "project_name": "Student Directory",
             "description": "Search for students in a directory, the results are filtered and paginated.",
             "technologies": ["JavaScript", "HTML", "CSS"],
-            "live_link": "https://cliftownh.github.io/project1_quoteGenerator",
-            "github_link": "https://github.com/cliftownh/project1_quoteGenerator",
-            "image_urls": ["/static/img/proj1_1.png", "/static/img/proj1_2.png", "/static/img/proj1_3.png"]
+            "live_link": "https://cliftownh.github.io/project2_Pagination",
+            "github_link": "https://github.com/cliftownh/project2_Pagination",
+            "image_urls": ["/static/img/p2_img1.png", "/static/img/p2_img2.png", "/static/img/p2_img3.png"]
         },
         {
             "id": 2,
@@ -26,7 +26,7 @@
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://cliftownh.github.io/project3_form",
             "github_link": "https://github.com/cliftownh/project3_form",
-            "image_urls": ["/static/img/proj1_1.png", "/static/img/proj1_2.png", "/static/img/proj1_3.png"]
+            "image_urls": ["/static/img/p3_img1.png", "/static/img/p3_img2.png", "/static/img/p3_img3.png"]
         },
         {
             "id": 3,
@@ -35,7 +35,7 @@
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://cliftownh.github.io/GameShow",
             "github_link": "https://github.com/cliftownh/GameShow",
-            "image_urls": ["/static/img/proj1_1.png", "/static/img/proj1_2.png", "/static/img/proj1_3.png"]
+            "image_urls": ["/static/img/p4_img1.png", "/static/img/p4_img2.png", "/static/img/p4_img3.png"]
         },
         {
             "id": 4,
@@ -44,7 +44,7 @@
             "technologies": ["JavaScript", "HTML", "CSS", "API"],
             "live_link": "https://cliftownh.github.io/Project5_EmployeeDirectory",
             "github_link": "https://github.com/cliftownh/Project5_EmployeeDirectory",
-            "image_urls": ["/static/img/proj1_1.png", "/static/img/proj1_2.png", "/static/img/proj1_3.png"]
+            "image_urls": ["/static/img/p5_img1.png", "/static/img/p5_img2.png", "/static/img/p5_img3.png"]
         }
     ]
 }
