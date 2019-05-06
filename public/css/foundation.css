@@ -100,6 +100,9 @@ pre {
   font-size: 1em;
   /* 2 */ }
 
+  .thumbnail {
+    transition: box-shadow 0.5s ease-in-out;
+  }
 /* Links
        ========================================================================== */
 /**
@@ -443,7 +446,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  background: #fefefe;
+  background: #cecece;
   font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   font-weight: normal;
   line-height: 1.5;
