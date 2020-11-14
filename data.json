@@ -3,48 +3,82 @@
     [
         {
             "id": 0,
-            "project_name": "Random Quote Generator",
-            "description": "The user clicks a button to display a random quote.",
-            "technologies": ["JavaScript", "HTML", "CSS"],
-            "live_link": "https://cliftownh.github.io/project1_quoteGenerator",
-            "github_link": "https://github.com/cliftownh/project1_quoteGenerator",
-            "image_urls": ["/static/img/p1_img1.png", "/static/img/p1_img2.png", "/static/img/p1_img3.png"]
+            "project_name": "MovieShow.me",
+            "description": "An application for rating and reviewing movies and television shows. (Work in Progress)",
+            "technologies": ["JavaScript", "HTML", "CSS", "Node.js", "Express", "React", "MongoDB", "Bootstrap"],
+            "github_link": "https://github.com/cliftownh/movie-show",
+            "image_urls": ["/static/img/p11_img1.png", "/static/img/p11_img2.png", "/static/img/p11_img3.png"]
         },
         {
             "id": 1,
-            "project_name": "Student Directory",
-            "description": "Search for students in a directory, the results are filtered and paginated.",
-            "technologies": ["JavaScript", "HTML", "CSS"],
-            "live_link": "https://cliftownh.github.io/project2_Pagination",
-            "github_link": "https://github.com/cliftownh/project2_Pagination",
-            "image_urls": ["/static/img/p2_img1.png", "/static/img/p2_img2.png", "/static/img/p2_img3.png"]
+            "project_name": "Library Book Manager",
+            "description": "Manage a database of library books. Users have the ability to add, update, delete, and search for books.",
+            "technologies": ["JavaScript", "HTML", "CSS", "Node.js", "Express", "Pug", "Sequelize"],
+            "live_link": "https://librarybook-manager.herokuapp.com/",
+            "github_link": "https://github.com/cliftownh/project8_sql_library",
+            "image_urls": ["/static/img/p08_img1.png", "/static/img/p08_img2.png", "/static/img/p08_img3.png"]
         },
         {
             "id": 2,
-            "project_name": "Interactive Form",
-            "description": "A form field for signing up to a conference.",
-            "technologies": ["JavaScript", "HTML", "CSS"],
-            "live_link": "https://cliftownh.github.io/project3_form",
-            "github_link": "https://github.com/cliftownh/project3_form",
-            "image_urls": ["/static/img/p3_img1.png", "/static/img/p3_img2.png", "/static/img/p3_img3.png"]
+            "project_name": "Full Stack School Database",
+            "description": "Administer a school database containing course information. Users can create an account to add, update, and delete courses.",
+            "technologies": ["JavaScript", "HTML", "CSS", "Node.js", "React", "Express", "Sequelize", "REST API"],
+            "github_link": "https://github.com/cliftownh/project10_reactAPI",
+            "image_urls": ["/static/img/p10_img1.png", "/static/img/p10_img2.png", "/static/img/p10_img3.png"]
         },
         {
             "id": 3,
             "project_name": "Phrase Hunter Game Show",
-            "description": "Select letters to guess the secret phrase.",
+            "description": "Select letters to guess the secret phrase in a hangman-style game.",
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://cliftownh.github.io/GameShow",
             "github_link": "https://github.com/cliftownh/GameShow",
-            "image_urls": ["/static/img/p4_img1.png", "/static/img/p4_img2.png", "/static/img/p4_img3.png"]
+            "image_urls": ["/static/img/p04_img1.png", "/static/img/p04_img2.png", "/static/img/p04_img3.png"]
         },
         {
             "id": 4,
+            "project_name": "Flickr Photo Search",
+            "description": "A search engine for finding photos on Flickr.",
+            "technologies": ["JavaScript", "HTML", "CSS", "Node.js", "React"],
+            "live_link": "https://flickr-react-search.herokuapp.com/",
+            "github_link": "https://github.com/cliftownh/project7_reactGallery",
+            "image_urls": ["/static/img/p07_img1.png", "/static/img/p07_img2.png", "/static/img/p07_img3.png"]
+        },
+        {
+            "id": 5,
             "project_name": "Employee Directory",
             "description": "A searchable directory of twelve randomly generated employees, each has a modal that can be viewed when clicked.",
             "technologies": ["JavaScript", "HTML", "CSS", "API"],
             "live_link": "https://cliftownh.github.io/Project5_EmployeeDirectory",
             "github_link": "https://github.com/cliftownh/Project5_EmployeeDirectory",
-            "image_urls": ["/static/img/p5_img1.png", "/static/img/p5_img2.png", "/static/img/p5_img3.png"]
+            "image_urls": ["/static/img/p05_img1.png", "/static/img/p05_img2.png", "/static/img/p05_img3.png"]
+        },
+        {
+            "id": 6,
+            "project_name": "Student Directory",
+            "description": "Search for students in a directory, the results are filtered and paginated.",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https://cliftownh.github.io/project2_Pagination",
+            "github_link": "https://github.com/cliftownh/project2_Pagination",
+            "image_urls": ["/static/img/p02_img1.png", "/static/img/p02_img2.png", "/static/img/p02_img3.png"]
+        },
+        {
+            "id": 7,
+            "project_name": "Interactive Form",
+            "description": "A form field for signing up to a conference.",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https://cliftownh.github.io/project3_form",
+            "github_link": "https://github.com/cliftownh/project3_form",
+            "image_urls": ["/static/img/p03_img1.png", "/static/img/p03_img2.png", "/static/img/p03_img3.png"]
+        },
+        {
+            "id": 8,
+            "project_name": "Random Quote Generator",
+            "description": "The user clicks a button to display a random quote.",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https://cliftownh.github.io/project1_quoteGenerator",
+            "github_link": "https://github.com/cliftownh/project1_quoteGenerator",
+            "image_urls": ["/static/img/p01_img1.png", "/static/img/p01_img2.png", "/static/img/p01_img3.png"]
         }
     ]
 }
