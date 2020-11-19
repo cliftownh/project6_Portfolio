@@ -1,6 +1,6 @@
 const express = require('express');
 const path = require('path');
-const port = 3000;
+const port = process.env.PORT || 3000;
 
 const app = express();
 
@@ -17,18 +17,17 @@ app.use('/about', aboutRoutes);
 app.use('/projects', projRoutes);
 
 app.use((req, res, next) => {
-    const err = new Error('Not Found');
-    err.status = 404;
-    next(err);
+  const err = new Error('Not Found');
+  err.status = 404;
+  next(err);
 });
-  
+
 app.use((err, req, res, next) => {
-    res.locals.error = err;
-    res.status(err.status);
-    res.render('error');
+  res.locals.error = err;
+  res.status(err.status);
+  res.render('error');
 });
-  
+
 app.listen(port, () => {
-    console.log('The application is running on localhost:3000');
+  console.log('The application is running on localhost:3000');
 });
-  
