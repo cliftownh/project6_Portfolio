@@ -4,7 +4,7 @@
         {
             "id": 0,
             "project_name": "MovieShow.me",
-            "description": "An application for rating and reviewing movies and television shows. (Work in Progress)",
+            "description": "A full stack application built front to back by me. Gives users the ability to create an account and search for, rate, and review movies and television shows. (Work in Progress)",
             "technologies": ["JavaScript", "HTML", "CSS", "Node.js", "Express", "React", "MongoDB", "Bootstrap"],
             "github_link": "https://github.com/cliftownh/movie-show",
             "image_urls": ["/static/img/p11_img1.png", "/static/img/p11_img2.png", "/static/img/p11_img3.png"]
